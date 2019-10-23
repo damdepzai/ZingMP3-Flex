@@ -1,0 +1,163 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.singer {
+    width: 200px;
+    height: 200px;
+    background: #866363;
+    margin: 0px 20px;
+    border-radius: 50%;
+}
+
+div#circle {
+    display: flex;
+}
+
+.nd {
+     background-image: linear-gradient(to right ,#0ed4c2,#3a7198);
+     width: 200px;
+     height: 71px;
+     margin: 13px 20px;
+}
+
+.chia2tiep {
+    display: flex;
+}
+
+.mv-hot-left {
+    width: 60%;
+    background: #9a5c5c;
+    height: 201px;
+}
+
+div#box-mvhot {
+    display: flex;
+}
+
+.bai1 {
+    margin: 20px 50px;
+    width: 200px;
+    height: 40px;
+    background-image: linear-gradient(to left ,#0ed4c2,#3a7198);
+}
+
+.songs-right {
+    width: 50%;
+}
+
+.songs-left {
+    width: 50%;
+}
+
+div#new-songs {
+    display: flex;
+}
+
+.sub-chart1 {
+    margin: 0px 40px;
+    width: 200px;
+    height: 54px;
+    background: #3aa07f;
+}
+
+div#week-chart {
+    display: flex;
+    margin-top: 37px;
+    margin-bottom: 20px;
+}
+
+.top-cover {
+    background: #3c803c;
+    width: 329px;
+    height: 42px;
+    margin: 10px;
+}
+
+.number {
+    font-size: 30px;
+    padding-top: 14px;
+}
+
+.wrap-box {
+    display: flex;
+}
+
+.zingchar-right {width: 400px;}
+
+div#sub-container {
+  
+    height: 256px;
+}
+
+div#zingchart {display: flex;}
+
+.zingchar-left {
+    width: 700px;
+    background: #e25c5c;
+    height: 300px;
+    margin-right: 68px;
+}
+
+div#footer {
+    
+    background: gray;
+    height: 200px;
+}
+#box{
+    display: flex;
+}
+.cart-info {
+    height: 200px;
+    width: 220px;
+ 
+    background-image: linear-gradient(to bottom ,#0ed4c2,#3a7198);
+    margin: 0px 10px;
+}
+
+div#title {
+    width: 200px;
+    background: #484242;
+    height: 40px;
+    padding-left: 20px;
+    line-height: 40px;
+    color: white;
+    font-size: 19px;
+    margin-bottom: 7px;
+}
+
+div#banner {
+    height: 200px;
+    width: 80%;
+    background: #3e2c52;
+    margin: 0% 10%;
+    margin-bottom: 20px;
+}
+
+div#menu {
+    height: 30px;
+    line-height: 30px;
+}
+
+div#header {
+    background: red;
+    height: 50px;
+    width: 100%;
+}
+body{
+	width: 1200px;
+	margin:0px auto;
+}
+#menu ul li{
+	list-style: none;
+	float: left;
+	text-transform: uppercase;
+	
+}
+#menu ul li a{
+	text-decoration: none;
+	padding: 0px 20px;
+	color: black;
+	font-weight: bold;
+}
